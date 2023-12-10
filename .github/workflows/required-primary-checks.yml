@@ -1,0 +1,65 @@
+name: Required primary checks
+
+on:
+  merge_group:
+  pull_request:
+    branches:
+      - dev
+      - master
+
+concurrency:
+  # New commit on branch cancels running workflows of the same branch
+  group: ${{ github.workflow }}-${{ github.head_ref }}
+  cancel-in-progress: true
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+  NPM_REGISTRY_TOKEN: ${{ secrets.NPM_REGISTRY_TOKEN }}
+  LERNA_IGNORE_LIST: "@salutejs/plasma-temple-docs"
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Prepare environment
+        uses: ./.github/actions/prepare-environment
+
+      - name: Lerna bootstrap
+        run: npx lerna bootstrap
+
+      - name: Lint
+        run: npm run lint
+
+  tests:
+    name: Unit Tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Prepare environment
+        uses: ./.github/actions/prepare-environment
+
+      - name: Lerna bootstrap
+        run: npx lerna bootstrap --since=$(git merge-base --fork-point origin/dev) --ignore=${{env.LERNA_IGNORE_LIST}}
+
+      - name: Unit tests
+        run: npm run test
+
+      - name: Setup React 17
+        run: |
+          npm i --no-progress --no-audit react@17 react-dom@17 @types/react@17.0.40 @types/react-dom@17 --prefix="./packages/plasma-temple"
+
+      - name: Lerna bootstrap by scope
+        run: npx lerna bootstrap --scope=@salutejs/plasma-temple
+
+      - name: Unit tests for React 17
+        run: npm run test -- --scope=@salutejs/plasma-temple

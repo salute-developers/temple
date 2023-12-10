@@ -1,0 +1,69 @@
+name: Main Documentation and Storybook
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Release"]
+    branches: [master]
+    types:
+      - completed
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    env:
+      NPM_REGISTRY_TOKEN: ${{ secrets.NPM_REGISTRY_TOKEN }}
+    steps:
+      # [NOTE]: В проекте default branch - dev, что бы правильно собрать
+      # актуальную версию для branch master, нужно указать ref = 'master'
+      - uses: actions/checkout@v4
+      # [DOC]: About REF. The branch, tag or SHA to checkout. When checking out the repository that
+      # triggered a workflow, this defaults to the reference or SHA for that event.
+      # Otherwise, **uses the default branch**.
+      # [DOC]: Last commit on default branch
+        with:
+          ref: 'master'
+          show-progress: false
+
+      - name: Prepare repository
+        run: git fetch --unshallow --tags
+
+      - name: Prepare environment
+        uses: ./.github/actions/prepare-environment
+
+      - name: Lerna bootstrap
+        run: npx lerna bootstrap
+
+      - name: Prepare directories
+        run: |
+          mkdir -p s3_build s3_build_sb
+
+      - name: Plasma Temple Docs
+        run: |
+          export NODE_OPTIONS=--openssl-legacy-provider
+          npm run build --prefix="./website/plasma-temple-docs"
+          cp -R ./website/plasma-temple-docs/build ./s3_build/next-${{ github.sha }}/temple
+
+      - name: Plasma Temple Storybook
+        run: |
+          npm run storybook:build --prefix="./packages/plasma-temple"
+          cp -R ./packages/plasma-temple/build-sb ./s3_build/next-${{ github.sha }}/temple-storybook
+
+      - name: Install s3cmd
+        run: pip3 install s3cmd
+
+      - name: s3 Upload documentation build
+        run: >
+          s3cmd
+          --access_key ${{ secrets.AWS_ACCESS_KEY_ID }}
+          --secret_key ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          --host ${{ secrets.AWS_ENDPOINT }}
+          --host-bucket ${{ secrets.AWS_ENDPOINT }}
+          --bucket-location ${{ secrets.AWS_REGION }}
+          --signature-v2
+          --delete-removed
+          --no-mime-magic
+          sync
+          ./s3_build/next-${{ github.sha }}/
+          s3://${{ secrets.AWS_S3_BUCKET_2 }}/current/

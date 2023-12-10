@@ -1,0 +1,4139 @@
+# v1.191.0 (Thu Nov 30 2023)
+
+#### 🚀 Enhancement
+
+- Release from 30.11.2023 [#883](https://github.com/salute-developers/plasma/pull/883) ([@Yakutoc](https://github.com/Yakutoc) [@kayman233](https://github.com/kayman233) [@Salute-Eva](https://github.com/Salute-Eva) [@TitanKuzmich](https://github.com/TitanKuzmich) [@neretin-trike](https://github.com/neretin-trike) [@Yeti-or](https://github.com/Yeti-or))
+- feat: update package-lock.json files ([@Salute-Eva](https://github.com/Salute-Eva))
+- feat: Update package-lock.json files ([@Yakutoc](https://github.com/Yakutoc))
+
+#### 🐛 Bug Fix
+
+- Update versions ([@Salute-Eva](https://github.com/Salute-Eva))
+- chore: update package locks [#880](https://github.com/salute-developers/plasma/pull/880) ([@TitanKuzmich](https://github.com/TitanKuzmich))
+- Update package-lock.json files ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 6
+
+- [@kayman233](https://github.com/kayman233)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Alex Czech ([@Yakutoc](https://github.com/Yakutoc))
+- Krivonos Aleksandr ([@TitanKuzmich](https://github.com/TitanKuzmich))
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v1.189.0 (Thu Nov 16 2023)
+
+### Release Notes
+
+#### Release 16.11.2023 ([#852](https://github.com/salute-developers/plasma/pull/852))
+
+Релиз от 16.11.2023
+
+---
+
+#### 🚀 Enhancement
+
+- Release 16.11.2023 [#852](https://github.com/salute-developers/plasma/pull/852) ([@TitanKuzmich](https://github.com/TitanKuzmich) [@Salute-Eva](https://github.com/Salute-Eva) [@Yakutoc](https://github.com/Yakutoc) [@kayman233](https://github.com/kayman233) [@akhdrv](https://github.com/akhdrv))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update versions ([@Salute-Eva](https://github.com/Salute-Eva))
+- chore(packages): reformat package.json ([@Yakutoc](https://github.com/Yakutoc))
+- chore(plasma-temple): add "@storybook/addon-knobs" [#824](https://github.com/salute-developers/plasma/pull/824) ([@Yakutoc](https://github.com/Yakutoc))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 5
+
+- [@kayman233](https://github.com/kayman233)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Alex Czech ([@Yakutoc](https://github.com/Yakutoc))
+- Artem Khaydarov ([@akhdrv](https://github.com/akhdrv))
+- Krivonos Aleksandr ([@TitanKuzmich](https://github.com/TitanKuzmich))
+
+---
+
+# v1.186.0 (Thu Nov 02 2023)
+
+#### 🚀 Enhancement
+
+- Release 02.11.2023 [#829](https://github.com/salute-developers/plasma/pull/829) ([@akhdrv](https://github.com/akhdrv) [@neretin-trike](https://github.com/neretin-trike) [@Salute-Eva](https://github.com/Salute-Eva) [@kayman233](https://github.com/kayman233) [@Yakutoc](https://github.com/Yakutoc) [@nikewht](https://github.com/nikewht))
+- feat: manual bump versions [#826](https://github.com/salute-developers/plasma/pull/826) ([@Yakutoc](https://github.com/Yakutoc))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update versions ([@Salute-Eva](https://github.com/Salute-Eva))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 6
+
+- [@kayman233](https://github.com/kayman233)
+- [@nikewht](https://github.com/nikewht)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Alex Czech ([@Yakutoc](https://github.com/Yakutoc))
+- Artem Khaydarov ([@akhdrv](https://github.com/akhdrv))
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+
+---
+
+# v1.183.0 (Fri Sep 29 2023)
+
+#### 🚀 Enhancement
+
+- Update package-locks [#781](https://github.com/salute-developers/plasma/pull/781) ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### 🐛 Bug Fix
+
+- Update versions [#781](https://github.com/salute-developers/plasma/pull/781) ([@Salute-Eva](https://github.com/Salute-Eva))
+- chore: update package-locks [#781](https://github.com/salute-developers/plasma/pull/781) ([@Salute-Eva](https://github.com/Salute-Eva))
+- fix: Bump package-lock versions [#781](https://github.com/salute-developers/plasma/pull/781) ([@neretin-trike](https://github.com/neretin-trike))
+- chore: update version [#781](https://github.com/salute-developers/plasma/pull/781) ([@Yakutoc](https://github.com/Yakutoc))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 3
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Alex Czech ([@Yakutoc](https://github.com/Yakutoc))
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+
+---
+
+# v1.177.0 (Thu Sep 14 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks [#699](https://github.com/salute-developers/plasma/pull/699) ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update versions [#699](https://github.com/salute-developers/plasma/pull/699) ([@Salute-Eva](https://github.com/Salute-Eva))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.174.0 (Mon Sep 04 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks [#681](https://github.com/salute-developers/plasma/pull/681) ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update versions [#681](https://github.com/salute-developers/plasma/pull/681) ([@Salute-Eva](https://github.com/Salute-Eva))
+- chore: delete unnecessary plasma-temple eslint config [#681](https://github.com/salute-developers/plasma/pull/681) ([@Yakutoc](https://github.com/Yakutoc))
+- chore(plasma-temple): disabled eslint rules: require-default-props, no-unused-prop-types [#681](https://github.com/salute-developers/plasma/pull/681) ([@Yakutoc](https://github.com/Yakutoc))
+- chore(packages): add lint script [#681](https://github.com/salute-developers/plasma/pull/681) ([@Yakutoc](https://github.com/Yakutoc))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Alex Czech ([@Yakutoc](https://github.com/Yakutoc))
+
+---
+
+# v1.170.0 (Fri Aug 18 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.169.0 (Thu Aug 03 2023)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Add some threshold fallbacks [#630](https://github.com/salute-developers/plasma/pull/630) ([@neretin-trike](https://github.com/neretin-trike))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### ⚠️ Pushed to `master`
+
+- Merge branch 'dev' ([@Yeti-or](https://github.com/Yeti-or))
+
+#### Authors: 3
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v1.168.0 (Thu Jul 13 2023)
+
+#### 🐛 Bug Fix
+
+- chore(storybook): avoid OpenSSL v3.0 breaking changes [#620](https://github.com/salute-developers/plasma/pull/620) ([@Yakutoc](https://github.com/Yakutoc))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Alex Czech ([@Yakutoc](https://github.com/Yakutoc))
+
+---
+
+# v1.167.0 (Thu Jun 29 2023)
+
+#### 🐛 Bug Fix
+
+- chore: add forgotten license [#582](https://github.com/salute-developers/plasma/pull/582) ([@Yeti-or](https://github.com/Yeti-or))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v1.165.0 (Thu Jun 01 2023)
+
+#### 🐛 Bug Fix
+
+- chore: use "paths" property in tsconfig.json [#526](https://github.com/salute-developers/plasma/pull/526) ([@Yakutoc](https://github.com/Yakutoc))
+- chore: [packages] update package-lock files [#526](https://github.com/salute-developers/plasma/pull/526) ([@Yakutoc](https://github.com/Yakutoc))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Alex Czech ([@Yakutoc](https://github.com/Yakutoc))
+
+---
+
+# v1.164.0 (Mon May 22 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.162.0 (Fri May 19 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.161.0 (Fri May 19 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.160.0 (Thu May 18 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.159.1 (Wed May 17 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.158.1 (Thu May 11 2023)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): create assistant ctx [#503](https://github.com/salute-developers/plasma/pull/503) ([@LamaEats](https://github.com/LamaEats))
+- docs: fix links in docs [#500](https://github.com/salute-developers/plasma/pull/500) ([@kayman233](https://github.com/kayman233))
+
+#### Authors: 2
+
+- [@kayman233](https://github.com/kayman233)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.158.0 (Fri Apr 28 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.157.0 (Thu Apr 27 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.156.0 (Thu Apr 27 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.155.0 (Wed Apr 26 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.154.1 (Tue Apr 25 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.154.0 (Mon Apr 24 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.153.0 (Fri Apr 21 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.152.0 (Thu Apr 20 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.150.0 (Wed Apr 12 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.149.1 (Mon Apr 10 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.148.1 (Tue Apr 04 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.147.0 (Wed Mar 29 2023)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): update getImageProps slider args [#451](https://github.com/salute-developers/plasma/pull/451) ([@shirinovIldar](https://github.com/shirinovIldar))
+
+#### Authors: 1
+
+-  Ildar Shirinov ([@shirinovIldar](https://github.com/shirinovIldar))
+
+---
+
+# v1.145.1 (Wed Mar 22 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.145.0 (Tue Mar 21 2023)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-*): Fix some types by es-lint rules ([@neretin-trike](https://github.com/neretin-trike))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- fix(plasma-temple): Remove storybook docs [#420](https://github.com/salute-developers/plasma/pull/420) ([@neretin-trike](https://github.com/neretin-trike))
+- build(plasma-temple): remove unused dep [#422](https://github.com/salute-developers/plasma/pull/422) ([@Yeti-or](https://github.com/Yeti-or))
+
+#### Authors: 3
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v1.144.0 (Fri Mar 17 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.143.0 (Thu Mar 16 2023)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Replace builder for storybook to Vite [#383](https://github.com/salute-developers/plasma/pull/383) ([@neretin-trike](https://github.com/neretin-trike))
+
+#### Authors: 1
+
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+
+---
+
+# v1.141.0 (Tue Mar 14 2023)
+
+#### 🚀 Enhancement
+
+- feat(plasma-*): Rename eslint rule and add temp rules [#408](https://github.com/salute-developers/plasma/pull/408) ([@neretin-trike](https://github.com/neretin-trike))
+- feat(plasma-*): Bump react-script version to 4.0.3 [#408](https://github.com/salute-developers/plasma/pull/408) ([@neretin-trike](https://github.com/neretin-trike))
+- feat(plasm-*): Bump typescript version to 4.0.8 [#408](https://github.com/salute-developers/plasma/pull/408) ([@neretin-trike](https://github.com/neretin-trike))
+
+#### Authors: 1
+
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+
+---
+
+# v1.140.0 (Mon Mar 06 2023)
+
+#### 🐛 Bug Fix
+
+- build(plasma-hope): bump react to 18x [#194](https://github.com/salute-developers/plasma/pull/194) ([@Yeti-or](https://github.com/Yeti-or))
+- build(plasma-temple): bump react to 18.x [#194](https://github.com/salute-developers/plasma/pull/194) ([@Yeti-or](https://github.com/Yeti-or))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v1.138.0 (Mon Feb 20 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.137.0 (Fri Feb 17 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- ci: fix package-locks [#352](https://github.com/salute-developers/plasma/pull/352) ([@Yeti-or](https://github.com/Yeti-or))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v1.136.1 (Thu Feb 16 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.136.0 (Wed Feb 15 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.135.1 (Wed Feb 15 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.135.0 (Tue Feb 14 2023)
+
+#### 🐛 Bug Fix
+
+- feat(plasma-ui,plasma-temple): Solve warning problems in storyboook [#335](https://github.com/salute-developers/plasma/pull/335) ([@neretin-trike](https://github.com/neretin-trike))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+
+---
+
+# v1.134.0 (Tue Feb 14 2023)
+
+#### 🚀 Enhancement
+
+- feat: Update using title in toolBar instead of name in preview.js [#330](https://github.com/salute-developers/plasma/pull/330) ([@neretin-trike](https://github.com/neretin-trike))
+- feat: Bump storybook version to 6.5 [#330](https://github.com/salute-developers/plasma/pull/330) ([@neretin-trike](https://github.com/neretin-trike))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+
+---
+
+# v1.133.0 (Tue Feb 14 2023)
+
+#### 🚀 Enhancement
+
+- feat(plasma-*): Remove declarationMap from tsconfig.json [#326](https://github.com/salute-developers/plasma/pull/326) ([@neretin-trike](https://github.com/neretin-trike))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+
+---
+
+# v1.131.1 (Mon Feb 13 2023)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): assistant state logic [#293](https://github.com/salute-developers/plasma/pull/293) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.131.0 (Fri Feb 10 2023)
+
+#### 🚀 Enhancement
+
+- feat(plasma-*): Add .npmignore and remove file field for test files [#322](https://github.com/salute-developers/plasma/pull/322) ([@neretin-trike](https://github.com/neretin-trike))
+
+#### Authors: 1
+
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+
+---
+
+# v1.129.0 (Thu Feb 02 2023)
+
+#### 🚀 Enhancement
+
+- feat(plasma-*): Remove source maps from bundles [#309](https://github.com/salute-developers/plasma/pull/309) ([@neretin-trike](https://github.com/neretin-trike))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+
+---
+
+# v1.128.0 (Wed Feb 01 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.125.1 (Wed Jan 25 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.125.0 (Wed Jan 25 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.124.0 (Tue Jan 24 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.123.0 (Thu Jan 19 2023)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): remove duplicate interface [#284](https://github.com/salute-developers/plasma/pull/284) ([@Yeti-or](https://github.com/Yeti-or))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- ci: improve ts-coverage report [#282](https://github.com/salute-developers/plasma/pull/282) ([@Yeti-or](https://github.com/Yeti-or))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v1.121.1 (Wed Jan 11 2023)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.121.0 (Mon Dec 26 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.120.0 (Mon Dec 26 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.117.0 (Wed Dec 14 2022)
+
+#### 🐛 Bug Fix
+
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### ⚠️ Pushed to `master`
+
+- Merge commit '2de734f1' into test ([@Yeti-or](https://github.com/Yeti-or))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v1.114.6 (Fri Dec 02 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.114.5 (Thu Dec 01 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): skip tests for Cart [#251](https://github.com/salute-developers/plasma/pull/251) ([@Yakutoc](https://github.com/Yakutoc))
+
+#### Authors: 1
+
+- Alex Czech ([@Yakutoc](https://github.com/Yakutoc))
+
+---
+
+# v1.114.4 (Wed Nov 30 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.114.3 (Fri Nov 25 2022)
+
+#### 🐛 Bug Fix
+
+- fixup! fix(plasma-temple): improve type-coverage [#239](https://github.com/salute-developers/plasma/pull/239) ([@Yeti-or](https://github.com/Yeti-or))
+- fix(plasma-temple): improve type-coverage of GP:Carousel [#239](https://github.com/salute-developers/plasma/pull/239) ([@Yeti-or](https://github.com/Yeti-or))
+- fix(plasma-temple): improve type-coverage [#239](https://github.com/salute-developers/plasma/pull/239) ([@Yeti-or](https://github.com/Yeti-or))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v1.114.2 (Thu Nov 24 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.114.1 (Thu Nov 24 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.113.1 (Thu Nov 24 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.113.0 (Wed Nov 23 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.111.1 (Wed Nov 16 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): `getAssistantRef` returns correct value [#221](https://github.com/salute-developers/plasma/pull/221) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.111.0 (Mon Nov 14 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): one more `AssistantProvider` [#213](https://github.com/salute-developers/plasma/pull/213) ([@LamaEats](https://github.com/LamaEats))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.109.4 (Wed Nov 09 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.109.3 (Tue Nov 08 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.109.1 (Thu Nov 03 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.107.1 (Mon Oct 31 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.106.3 (Fri Oct 28 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): update `HeroSliderDots` component [#202](https://github.com/salute-developers/plasma/pull/202) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.106.1 (Thu Oct 27 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): fix warnings and rerender of HeroSlider [#196](https://github.com/salute-developers/plasma/pull/196) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.106.0 (Thu Oct 27 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.105.0 (Thu Oct 27 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.104.1 (Thu Oct 27 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.102.3 (Thu Oct 13 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): `HeroSlider` improve api [#188](https://github.com/salute-developers/plasma/pull/188) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.102.2 (Mon Oct 10 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.102.1 (Mon Oct 10 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.102.0 (Mon Oct 10 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): update desc [#181](https://github.com/salute-developers/plasma/pull/181) ([@LamaEats](https://github.com/LamaEats))
+- feat(plasma-temple): add `renderText` prop for `StateLayout` component [#168](https://github.com/salute-developers/plasma/pull/168) ([@LamaEats](https://github.com/LamaEats))
+
+#### 🐛 Bug Fix
+
+- chore(plasma-temple): waiting focus state on button [#171](https://github.com/salute-developers/plasma/pull/171) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update CHANGELOG.md \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.101.0 (Thu Oct 06 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.100.0 (Thu Oct 06 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.99.0 (Wed Oct 05 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.97.0 (Mon Oct 03 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.96.0 (Wed Sep 28 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.95.3 (Mon Sep 26 2022)
+
+#### 🐛 Bug Fix
+
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update CHANGELOG.md \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- fix(plasma-temple): prevent `focusin` event [#163](https://github.com/salute-developers/plasma/pull/163) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.95.2 (Tue Sep 20 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): prevent `focusin` event [#163](https://github.com/salute-developers/plasma/pull/163) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.95.1 (Tue Sep 20 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.95.0 (Thu Sep 15 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.93.0 (Tue Sep 13 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.92.1 (Mon Sep 12 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.91.0 (Thu Sep 01 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.90.3 (Thu Sep 01 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.90.2 (Thu Sep 01 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.90.1 (Tue Aug 30 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.90.0 (Tue Aug 30 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.89.1 (Mon Aug 29 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.89.0 (Mon Aug 29 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.88.0 (Mon Aug 29 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.87.0 (Thu Aug 18 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.86.2 (Wed Aug 17 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.86.1 (Tue Aug 16 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.85.0 (Thu Jul 28 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.84.2 (Thu Jul 21 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.84.0 (Tue Jul 19 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.83.1 (Fri Jul 08 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): mobile gallery gap between items [#93](https://github.com/salute-developers/plasma/pull/93) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- fix(plasma-temple): fix mobile gallery with navigation item right padding [#93](https://github.com/salute-developers/plasma/pull/93) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v1.83.0 (Thu Jul 07 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): fix link to storybook from docs, add ThemeProvider component name [#91](https://github.com/salute-developers/plasma/pull/91) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.82.0 (Wed Jul 06 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.81.0 (Fri Jul 01 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): enchance statelayout props [#88](https://github.com/salute-developers/plasma/pull/88) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.79.0 (Wed Jun 29 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): grid skeleton [#86](https://github.com/salute-developers/plasma/pull/86) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.77.0 (Thu Jun 23 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.76.0 (Thu Jun 23 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.75.0 (Wed Jun 22 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.73.0 (Thu Jun 09 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.72.2 (Thu Jun 09 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): useSpatNavBetweenTargets - fix ssr render [#59](https://github.com/salute-developers/plasma/pull/59) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.72.1 (Tue Jun 07 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.72.0 (Tue Jun 07 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): fix gallery offset between title and gallery [#42](https://github.com/salute-developers/plasma/pull/42) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): fix gallery paddings [#42](https://github.com/salute-developers/plasma/pull/42) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): gallery skeleton [#42](https://github.com/salute-developers/plasma/pull/42) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.71.0 (Tue Jun 07 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): fixes [#52](https://github.com/salute-developers/plasma/pull/52) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Use ScreenProvider and AssistantProvider under the hood of PlasmaApp [#52](https://github.com/salute-developers/plasma/pull/52) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.70.1 (Thu Jun 02 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.70.0 (Thu May 26 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.69.0 (Tue May 24 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): tests [#22](https://github.com/salute-developers/plasma/pull/22) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): docs [#22](https://github.com/salute-developers/plasma/pull/22) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): gallery voice navigation [#22](https://github.com/salute-developers/plasma/pull/22) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): mobile version [#22](https://github.com/salute-developers/plasma/pull/22) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): export by platforms [#22](https://github.com/salute-developers/plasma/pull/22) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): new gallery component [#22](https://github.com/salute-developers/plasma/pull/22) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.68.3 (Mon May 23 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.68.2 (Fri May 20 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): pass `character` as arg for `getInitialProps` [#19](https://github.com/salute-developers/plasma/pull/19) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.68.1 (Thu May 19 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.68.0 (Tue May 17 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): tests [#16](https://github.com/salute-developers/plasma/pull/16) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): docs [#16](https://github.com/salute-developers/plasma/pull/16) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Split PlasmaApp logic [#16](https://github.com/salute-developers/plasma/pull/16) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.67.0 (Wed May 11 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.66.0 (Wed May 11 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks [#18](https://github.com/salute-developers/plasma/pull/18) ([@Yeti-or](https://github.com/Yeti-or))
+
+#### Authors: 1
+
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v1.64.0 (Thu May 05 2022)
+
+#### 🐛 Bug Fix
+
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.60.0 (Wed Apr 27 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Exports by platforms: Grid, HeroSlider, ErrorPage, SuccessPage, VideoPage ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): product - export by platforms ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- fix: linting errs [#1](https://github.com/salute-developers/plasma/pull/1) ([@Yeti-or](https://github.com/Yeti-or))
+- fix: monorepo deps resolved [#1](https://github.com/salute-developers/plasma/pull/1) ([@Yeti-or](https://github.com/Yeti-or))
+- build: update deps [#1](https://github.com/salute-developers/plasma/pull/1) ([@Yeti-or](https://github.com/Yeti-or))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 3
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v1.58.0 (Tue Apr 12 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): cart - export by platforms [#1184](https://github.com/salute-developers/plasma/pull/1184) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v1.57.0 (Tue Apr 12 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): item - exports by platforms [#1187](https://github.com/salute-developers/plasma/pull/1187) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v1.56.0 (Mon Apr 11 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): replace previous screens [#1174](https://github.com/salute-developers/plasma/pull/1174) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.55.0 (Mon Apr 11 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): onStart wait for command [#1176](https://github.com/salute-developers/plasma/pull/1176) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): onStart wait for character [#1176](https://github.com/salute-developers/plasma/pull/1176) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): add device component, StateLayout component by platforms [#1182](https://github.com/salute-developers/plasma/pull/1182) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update CHANGELOG.md \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 3
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.54.0 (Fri Apr 08 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): add device component, StateLayout component by platforms [#1182](https://github.com/salute-developers/plasma/pull/1182) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.53.0 (Fri Apr 08 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.51.1 (Tue Apr 05 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-teple): make svg imports inline [#1175](https://github.com/salute-developers/plasma/pull/1175) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.50.0 (Fri Apr 01 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): update build [#1168](https://github.com/salute-developers/plasma/pull/1168) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.49.0 (Thu Mar 31 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Assistant impovements [#1163](https://github.com/salute-developers/plasma/pull/1163) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.48.0 (Wed Mar 30 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): tests [#1156](https://github.com/salute-developers/plasma/pull/1156) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Grid component [#1156](https://github.com/salute-developers/plasma/pull/1156) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v1.47.0 (Wed Mar 30 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): update tests [#1150](https://github.com/salute-developers/plasma/pull/1150) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Support onboarding page in StateLayout component [#1150](https://github.com/salute-developers/plasma/pull/1150) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v1.46.0 (Wed Mar 30 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Success page [#1145](https://github.com/salute-developers/plasma/pull/1145) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v1.45.0 (Wed Mar 30 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Item component [#1143](https://github.com/salute-developers/plasma/pull/1143) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v1.43.0 (Wed Mar 16 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Export for useSpatNavBetweenTargets [#1140](https://github.com/salute-developers/plasma/pull/1140) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.42.0 (Wed Mar 16 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.41.0 (Wed Mar 16 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.40.0 (Tue Mar 15 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): GalleryPage header typography [#1122](https://github.com/salute-developers/plasma/pull/1122) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.38.0 (Fri Mar 11 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): error page improvments and mobile version [#1128](https://github.com/salute-developers/plasma/pull/1128) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v1.37.0 (Wed Mar 09 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Exports for custom item page [#1125](https://github.com/salute-developers/plasma/pull/1125) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.36.0 (Sat Mar 05 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Product component [#1110](https://github.com/salute-developers/plasma/pull/1110) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Product component [#1079](https://github.com/salute-developers/plasma/pull/1079) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): New Cart component [#1067](https://github.com/salute-developers/plasma/pull/1067) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): New Cart component [#1066](https://github.com/salute-developers/plasma/pull/1066) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Poster classname on video change [#1132](https://github.com/salute-developers/plasma/pull/1132) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- test(plasma-temple): Multi-platform tests [#1109](https://github.com/salute-developers/plasma/pull/1109) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- test(plasma-temple): Product tests [#1109](https://github.com/salute-developers/plasma/pull/1109) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- docs(plasma-temple): Product docs [#1110](https://github.com/salute-developers/plasma/pull/1110) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update CHANGELOG.md \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- test(plasma-temple): multi-platform tests [#1067](https://github.com/salute-developers/plasma/pull/1067) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- test(plasma-temple): Cart component tests [#1067](https://github.com/salute-developers/plasma/pull/1067) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- docs(plasma-temple): Cart component doc [#1066](https://github.com/salute-developers/plasma/pull/1066) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 3
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.35.0 (Fri Mar 04 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Product component [#1079](https://github.com/salute-developers/plasma/pull/1079) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): New Cart component [#1067](https://github.com/salute-developers/plasma/pull/1067) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): New Cart component [#1066](https://github.com/salute-developers/plasma/pull/1066) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- test(plasma-temple): multi-platform tests [#1067](https://github.com/salute-developers/plasma/pull/1067) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- test(plasma-temple): Cart component tests [#1067](https://github.com/salute-developers/plasma/pull/1067) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- docs(plasma-temple): Cart component doc [#1066](https://github.com/salute-developers/plasma/pull/1066) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.34.0 (Fri Mar 04 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): New Cart component [#1080](https://github.com/salute-developers/plasma/pull/1080) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- test(plasma-temple): StateLayout component spec [#1041](https://github.com/salute-developers/plasma/pull/1041) ([@LamaEats](https://github.com/LamaEats))
+- test(plasma-temple): OrderSuccessPage spec [#1041](https://github.com/salute-developers/plasma/pull/1041) ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): prepare OrderSuccessPage for tests [#1041](https://github.com/salute-developers/plasma/pull/1041) ([@LamaEats](https://github.com/LamaEats))
+- test(plasma-temple): ConfirmOrderPage spec [#1041](https://github.com/salute-developers/plasma/pull/1041) ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): prepare ConfirmOrderPage for tests [#1041](https://github.com/salute-developers/plasma/pull/1041) ([@LamaEats](https://github.com/LamaEats))
+- test(plasma-temple): ErrorPage spec [#1041](https://github.com/salute-developers/plasma/pull/1041) ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): prepare ErrorPage for tests [#1041](https://github.com/salute-developers/plasma/pull/1041) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 3
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.33.1 (Tue Mar 01 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.33.0 (Tue Mar 01 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.32.0 (Tue Mar 01 2022)
+
+#### 🐛 Bug Fix
+
+- test(plasma-temple): refactor test specs for platforms test [#1089](https://github.com/salute-developers/plasma/pull/1089) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.31.2 (Thu Feb 24 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.31.1 (Thu Feb 24 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.31.0 (Mon Feb 21 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): className for poster on VideoPage [#1103](https://github.com/salute-developers/plasma/pull/1103) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.30.1 (Fri Feb 18 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.30.0 (Fri Feb 18 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.29.2 (Thu Feb 17 2022)
+
+#### 🐛 Bug Fix
+
+- chore(plasma-temple): fix blink cursor [#1061](https://github.com/salute-developers/plasma/pull/1061) ([@LamaEats](https://github.com/LamaEats))
+- test(plasma-temple): HeroSlider spec [#1061](https://github.com/salute-developers/plasma/pull/1061) ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): prepare HeroSlider for tests [#1061](https://github.com/salute-developers/plasma/pull/1061) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.29.0 (Tue Feb 15 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Ability to disable autofocus in HeroSlider [#1077](https://github.com/salute-developers/plasma/pull/1077) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.28.0 (Mon Feb 14 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Config initial index in HeroSlider [#1078](https://github.com/salute-developers/plasma/pull/1078) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.27.3 (Thu Feb 10 2022)
+
+#### 🐛 Bug Fix
+
+- test(plasma-temple): stub image for tests [#1006](https://github.com/salute-developers/plasma/pull/1006) ([@LamaEats](https://github.com/LamaEats))
+- test(plasma-temple): grid page spec [#1006](https://github.com/salute-developers/plasma/pull/1006) ([@LamaEats](https://github.com/LamaEats))
+- test(plasma-temple): useForm hook spec [#1046](https://github.com/salute-developers/plasma/pull/1046) ([@LamaEats](https://github.com/LamaEats))
+- test(plasma-temple): Form components spec [#1046](https://github.com/salute-developers/plasma/pull/1046) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.27.1 (Mon Feb 07 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): peer deps versions [#1065](https://github.com/salute-developers/plasma/pull/1065) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.27.0 (Thu Feb 03 2022)
+
+#### 🐛 Bug Fix
+
+- test(plasma-temple): add tests for GalleryPage [#1059](https://github.com/salute-developers/plasma/pull/1059) ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): add story for GalleryPage [#1059](https://github.com/salute-developers/plasma/pull/1059) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): carousels height [#1059](https://github.com/salute-developers/plasma/pull/1059) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.26.1 (Thu Feb 03 2022)
+
+#### 🐛 Bug Fix
+
+- fix: peer dependencies versions [#1053](https://github.com/salute-developers/plasma/pull/1053) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.26.0 (Wed Feb 02 2022)
+
+#### 🐛 Bug Fix
+
+- chore: Storybook: Added lang to make VoiceOver read russian text properly [#1052](https://github.com/salute-developers/plasma/pull/1052) ([@fanisco](https://github.com/fanisco))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Fanil' Zubairov ([@fanisco](https://github.com/fanisco))
+
+---
+
+# v1.25.0 (Tue Feb 01 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.24.3 (Fri Jan 28 2022)
+
+#### 🐛 Bug Fix
+
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update CHANGELOG.md \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- fix(plasma-temple): exports VideoPlayer component [#1042](https://github.com/salute-developers/plasma/pull/1042) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): don't stop video on source change [#1036](https://github.com/salute-developers/plasma/pull/1036) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 3
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.24.2 (Thu Jan 27 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): exports VideoPlayer component [#1042](https://github.com/salute-developers/plasma/pull/1042) ([@LamaEats](https://github.com/LamaEats))
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update CHANGELOG.md \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- fix(plasma-temple): don't stop video on source change [#1036](https://github.com/salute-developers/plasma/pull/1036) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 3
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.24.1 (Thu Jan 27 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): don't stop video on source change [#1036](https://github.com/salute-developers/plasma/pull/1036) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.24.0 (Thu Jan 27 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Mobile StateLayout [#1004](https://github.com/salute-developers/plasma/pull/1004) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### 🐛 Bug Fix
+
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update CHANGELOG.md \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.23.0 (Wed Jan 26 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Mobile StateLayout [#1004](https://github.com/salute-developers/plasma/pull/1004) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.22.1 (Wed Jan 26 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.21.1 (Mon Jan 24 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Realtime update for currentTime in useMediaPlayer [#1050](https://github.com/salute-developers/plasma/pull/1050) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- test(plasma-temple): ItemPage Spec [#1032](https://github.com/salute-developers/plasma/pull/1032) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 3
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.21.0 (Wed Jan 19 2022)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Support for findInInitialData [#1043](https://github.com/salute-developers/plasma/pull/1043) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.20.1 (Wed Jan 19 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): improve CartPage mobile markup [#1005](https://github.com/salute-developers/plasma/pull/1005) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- fix(plasma-temple): improve CartPage markup [#1005](https://github.com/salute-developers/plasma/pull/1005) ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): common storybook style [#1005](https://github.com/salute-developers/plasma/pull/1005) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 2
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.20.0 (Tue Jan 18 2022)
+
+#### 🐛 Bug Fix
+
+- test(plasma-temple): cypress tests for PlasmaApp component [#1025](https://github.com/salute-developers/plasma/pull/1025) ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): rewrite type of GetInitialProps func [#1025](https://github.com/salute-developers/plasma/pull/1025) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.19.3 (Thu Jan 13 2022)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Dont pass page name to PageMethods [#1040](https://github.com/salute-developers/plasma/pull/1040) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.19.2 (Thu Jan 13 2022)
+
+#### 🐛 Bug Fix
+
+- build(plasma-temple): fix `excludes` tests file mask [#1038](https://github.com/salute-developers/plasma/pull/1038) ([@LamaEats](https://github.com/LamaEats))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.19.1 (Tue Jan 11 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- chore(plasma-temple): infer types for Page methods [#975](https://github.com/salute-developers/plasma/pull/975) ([@LamaEats](https://github.com/LamaEats))
+- test(plasma-temple): setup cypress tests [#975](https://github.com/salute-developers/plasma/pull/975) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.18.0 (Thu Dec 30 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Controlled video fit on video page [#1023](https://github.com/salute-developers/plasma/pull/1023) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update CHANGELOG.md \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.17.1 (Wed Dec 29 2021)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.17.0 (Wed Dec 29 2021)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.16.0 (Fri Dec 24 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Ability to hide player controls [#1011](https://github.com/salute-developers/plasma/pull/1011) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.15.1 (Fri Dec 17 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Fix async Layout render [#995](https://github.com/salute-developers/plasma/pull/995) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.15.0 (Wed Dec 15 2021)
+
+#### 🐛 Bug Fix
+
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update CHANGELOG.md \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- fix(plasma-temple): Always show player controls on key press [#989](https://github.com/salute-developers/plasma/pull/989) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.14.1 (Wed Dec 15 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Always show player controls on key press [#989](https://github.com/salute-developers/plasma/pull/989) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.14.0 (Wed Dec 15 2021)
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 1
+
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.13.0 (Tue Dec 14 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Add spinner while state is not initialized [#971](https://github.com/salute-developers/plasma/pull/971) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): add promocode to cart [#971](https://github.com/salute-developers/plasma/pull/971) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update CHANGELOG.md \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.12.0 (Mon Dec 13 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Add spinner while state is not initialized [#971](https://github.com/salute-developers/plasma/pull/971) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): add promocode to cart [#971](https://github.com/salute-developers/plasma/pull/971) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v1.11.0 (Thu Dec 09 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): add multiline product description [#963](https://github.com/salute-developers/plasma/pull/963) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- chore: update package-locks \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.10.1 (Thu Dec 09 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Fix time chop in VideoPlayer [#966](https://github.com/salute-developers/plasma/pull/966) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.9.0 (Mon Dec 06 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): add support NeuHeader Component [#943](https://github.com/salute-developers/plasma/pull/943) ([@LamaEats](https://github.com/LamaEats))
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): manual infer styled-comp types [#943](https://github.com/salute-developers/plasma/pull/943) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.8.0 (Mon Nov 29 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Additional buttons in ItemPage [#938](https://github.com/salute-developers/plasma/pull/938) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.7.0 (Fri Nov 26 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): support for window.appInitialData [#941](https://github.com/salute-developers/plasma/pull/941) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.6.0 (Fri Nov 26 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Add cart test attributes [#954](https://github.com/salute-developers/plasma/pull/954) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): update assistant-client version [#949](https://github.com/salute-developers/plasma/pull/949) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update CHANGELOG.md \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+
+---
+
+# v1.5.0 (Tue Nov 23 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): update assistant-client version [#949](https://github.com/salute-developers/plasma/pull/949) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v1.4.0 (Wed Nov 17 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): export useHeaderProps [#902](https://github.com/salute-developers/plasma/pull/902) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat: Added Plasma Temple documentation app [#918](https://github.com/salute-developers/plasma/pull/918) ([@fanisco](https://github.com/fanisco))
+
+#### Authors: 2
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+- Fanil' Zubairov ([@fanisco](https://github.com/fanisco))
+
+---
+
+# v1.3.0 (Mon Nov 01 2021)
+
+#### 🐛 Bug Fix
+
+- ci(plasma-temple): Deploy Storybook [#881](https://github.com/salute-developers/plasma/pull/881) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.2.3 (Tue Oct 26 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): fix cart quantity and amount after item was deleted [#894](https://github.com/salute-developers/plasma/pull/894) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- fix(plasma-temple): fix order button offset from bottom [#894](https://github.com/salute-developers/plasma/pull/894) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v1.2.2 (Tue Oct 26 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): fix 100vh mobile [#884](https://github.com/salute-developers/plasma/pull/884) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v1.2.1 (Fri Oct 22 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): make props deprecated [#867](https://github.com/salute-developers/plasma/pull/867) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- fix(plasma-temple): Stop updating cart while external update is not finished [#867](https://github.com/salute-developers/plasma/pull/867) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- fix(plasma-temple): fix cart item click, add cart item custom background color [#867](https://github.com/salute-developers/plasma/pull/867) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v1.2.0 (Mon Oct 11 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Configurable StateLayout background image [#836](https://github.com/salute-developers/plasma/pull/836) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.1.5 (Thu Oct 07 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): changeState action [#816](https://github.com/salute-developers/plasma/pull/816) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v1.1.4 (Wed Oct 06 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Fix HeroSlide styles [#834](https://github.com/salute-developers/plasma/pull/834) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.1.3 (Mon Oct 04 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): fix cart scroll [#813](https://github.com/salute-developers/plasma/pull/813) ([@kayman233](https://github.com/kayman233))
+
+#### Authors: 1
+
+- [@kayman233](https://github.com/kayman233)
+
+---
+
+# v1.1.2 (Mon Oct 04 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Fix Layout scroll [#815](https://github.com/salute-developers/plasma/pull/815) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v1.1.1 (Tue Sep 28 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): fix page types [#820](https://github.com/salute-developers/plasma/pull/820) ([@kayman233](https://github.com/kayman233))
+
+#### Authors: 1
+
+- [@kayman233](https://github.com/kayman233)
+
+---
+
+# v1.1.0 (Tue Sep 28 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): opening item from cart [#814](https://github.com/salute-developers/plasma/pull/814) ([@kayman233](https://github.com/kayman233))
+
+#### Authors: 1
+
+- [@kayman233](https://github.com/kayman233)
+
+---
+
+# v1.0.0 (Fri Sep 24 2021)
+
+#### 💥 Breaking Change
+
+- feat(plasma-temple)!: major release [#818](https://github.com/salute-developers/plasma/pull/818) ([@LamaEats](https://github.com/LamaEats))
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Add page spinner [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): error page layout [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- feat(plasma-temple): Typed props for platform components [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Cart can be without delivery [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Insets with device pixel ratio [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Empty cart mobile version [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): simplify types [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Mobile cart and controlled cart [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Make page layout scrollable [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Adapt product components for mobile [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Add header minimize behavior [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Add active index to item change callback in HeroSlider [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Add on item cchange callback to HeroSlider [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Add useForm hook [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Add generic to GalleryPage [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Add todo [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Handle gallery card click inside package [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Simplify custom gallery card interface [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Refactor gallery [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Rename onScrollBottom callback in GridPage [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): On scrolled to bottom callback for GridPage [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Posibility to have custom background on layout state page [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Improve gallery types, fix redundant rerender because of changeState [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Add go to screen page method [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Add cart quantity limit [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Component for custom full screen background [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Custom entity component in ItemPage [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Store shop landing page active card index [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Posibility to skip assistant native panel insets [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Refactor ItemDescription type [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Refactor ItemCellProps [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Fix ItemMainSection linter error [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Separate interface for description on ItemPages [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): ReactElement in ItemPage description [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Refactor ItemPage [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Fix useMemo in ItemPage [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Add onItemFoucs callback for items on ItemPage [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): remove gallery animation for portal [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): temp [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Get rid of first gallery scroll [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): StateLayout component [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- feat(plasma-temple): implements Page lazy api [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- feat(plasma-temple): Add posibility to set tab index for carousel card [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Ability to disable payment [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): add grid page [#811](https://github.com/salute-developers/plasma/pull/811) ([@Yeti-or](https://github.com/Yeti-or))
+- feat(plasma-temple): Add posibility to change recipient data add form validation for voice field [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): HeroSlider touch events [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- feat(plasma-temple): HeroSlider components [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- feat(plasma-temple): Cart bubble [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Improve GalleryPage components [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- feat(plasma-temple): Cart page [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): ShopLandingPage components [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- feat(plasma-temple): Confirm Order page [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Order Success page [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): description conent can be node. Add export product components [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Support dispatching standart app actions via assistant [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Add reusable components for product pages [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Enhance state of Video and Gallery pages, refactor useInitializeAssistant hook [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Form components [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- feat(plasma-temple): move AnyObject to common types [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): fix eslint rules [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): refactor types [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-template): Refactor API [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-template): Improve video player customization. Fix small bugs [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-templlate): Video page [#811](https://github.com/salute-developers/plasma/pull/811) (kv.polyanskiy@gmail.com)
+- feat(plasma-template): Video player [#811](https://github.com/salute-developers/plasma/pull/811) (kv.polyanskiy@gmail.com)
+- feat(plasma-template): entity background is optional [#811](https://github.com/salute-developers/plasma/pull/811) (kv.polyanskiy@gmail.com)
+- feat(plasma-template): render custom gallery card [#811](https://github.com/salute-developers/plasma/pull/811) (kv.polyanskiy@gmail.com)
+- feat(plasma-temple): add unit tests [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- feat(plasma-template): Invoke onHistoryPopState callback when on popstate history event [#811](https://github.com/salute-developers/plasma/pull/811) (kv.polyanskiy@gmail.com)
+- feat(plasma-template): make id required only for multi gallery [#811](https://github.com/salute-developers/plasma/pull/811) (kv.polyanskiy@gmail.com)
+- feat(plasma-template): set header title for an active gallery [#811](https://github.com/salute-developers/plasma/pull/811) (kv.polyanskiy@gmail.com)
+- feat(plasma-template): support multi gallery [#811](https://github.com/salute-developers/plasma/pull/811) (kv.polyanskiy@gmail.com)
+- feat(plasma-template): add e2e attributes for gallery [#811](https://github.com/salute-developers/plasma/pull/811) (kv.polyanskiy@gmail.com)
+- feat(plasma-template): add e2e test attributes [#811](https://github.com/salute-developers/plasma/pull/811) (kv.polyanskiy@gmail.com)
+- feat(plasma-temple): add new package [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+
+#### 🐛 Bug Fix
+
+- docs(plasma-templte): fix docs [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): circular deps [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): resolve lint errors [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- Bump independent versions \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- Update CHANGELOG.md \[skip ci\] ([@Salute-Eva](https://github.com/Salute-Eva))
+- fix(plasma-temple): export ErrorPage from index [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- docs(plasma-temple): app hooks & scenario hooks [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- Bump independent versions \[skip ci\] ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): export GetInitialProps typing [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): title for Gallery component can be optional [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): tv detection [#811](https://github.com/salute-developers/plasma/pull/811) ([@Yeti-or](https://github.com/Yeti-or))
+- fix(plasma-temple): add focus for player button [#811](https://github.com/salute-developers/plasma/pull/811) ([@kayman233](https://github.com/kayman233))
+- fix(plasma-temple): callOnce for useFocusOnMount added [#811](https://github.com/salute-developers/plasma/pull/811) ([@kayman233](https://github.com/kayman233))
+- fix(plasma-temple): can hide timeline tick [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): remove tabindex attr for portal ua [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): fix mobile font size [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- fix(plasma-temple): Fix button view for portal in HeroSlide [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- Update packages/plasma-temple/docs/core.md [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- docs(plasma-temple): Add Page.lazy description [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- docs(plasma-temple): Docs core [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- docs(plasma-temple): add forms.md docs [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): assistantClient can be get outside React [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): HeroSlider skip last slide [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): circular deps in components [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): media player components fixes [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): fix GridPage api [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): fix playback on key hold [#811](https://github.com/salute-developers/plasma/pull/811) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- fix(plasma-temple): fix init parameters for assistant [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): smooth scroll on GridPage [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): dont call `getInitialProps` if `state` is defined [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): fix effects MediaTimeLine component [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): return component from `lazy fn` if `getInitialProps` is not defined [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): lil fixes + story for new component [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): apply new component for existing page layout [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): utility type for Header component props [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): add margin for GridPage Content [#811](https://github.com/salute-developers/plasma/pull/811) ([@Yeti-or](https://github.com/Yeti-or))
+- fix(plasma-temple): Fix cart page behavior [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- fix(plasma-temple): Fix focus and scroll gallery and landing page behaviour [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- refactor(plasma-temple): Media/Video players improve [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): adopt HeroSlider for portal [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): useRemoteHandlers conditions [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): Remove redundant padding [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- fix(plasma-temple): Fix gallery focus [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- refactor(plasma-temple): Rename ConfirmOrder and OrderSuccess [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- fix(plasma-temple): Fix twice button click and input form submit [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- chore(plasma-temple): assistant-client up version [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): Fix action button clicks with spatial navigation [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- build(plasma-temple): Build via rollup [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- chore(plasma-temple): improve gallery page api [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): Fix changeState [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- chore(plasma-temple): apply code style rules [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- chore: update deps [#811](https://github.com/salute-developers/plasma/pull/811) ([@OgNellis](https://github.com/OgNellis))
+- fix(plasma-temple): мелкие исправления и доработки апи [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-template): Get rid of header animation if logo is absent. Add header back button [#811](https://github.com/salute-developers/plasma/pull/811) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- docs(plasma-temple): add storybook configs [#811](https://github.com/salute-developers/plasma/pull/811) ([@Yeti-or](https://github.com/Yeti-or))
+- Apply the voice navigation [#811](https://github.com/salute-developers/plasma/pull/811) (kv.polyanskiy@gmail.com)
+- fix(plasma-temple): CardMedia children [#811](https://github.com/salute-developers/plasma/pull/811) ([@Yeti-or](https://github.com/Yeti-or))
+- fix(plasma-template): set default focus on gallery card [#811](https://github.com/salute-developers/plasma/pull/811) (kv.polyanskiy@gmail.com)
+- fix(plasma-template): use all header props [#811](https://github.com/salute-developers/plasma/pull/811) (kv.polyanskiy@gmail.com)
+- fix(plasma-temple): add package docs [#811](https://github.com/salute-developers/plasma/pull/811) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 8
+
+- [@kayman233](https://github.com/kayman233)
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@Salute-Eva](https://github.com/Salute-Eva)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+- Artem Feoktistov ([@OgNellis](https://github.com/OgNellis))
+- Konstantin Polyanskiy (kv.polyanskiy@gmail.com)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v0.52.2 (Wed Sep 22 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): export ErrorPage from index [#133](https://github.com/salute-developers/pashka/pull/133) ([@LamaEats](https://github.com/LamaEats))
+- docs(plasma-temple): app hooks & scenario hooks [#124](https://github.com/salute-developers/pashka/pull/124) ([@LamaEats](https://github.com/LamaEats))
+- Bump independent versions \[skip ci\] ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): export GetInitialProps typing [#128](https://github.com/salute-developers/pashka/pull/128) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.52.0 (Mon Sep 13 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Add page spinner [#122](https://github.com/salute-developers/pashka/pull/122) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.51.0 (Fri Sep 10 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): error page layout [#121](https://github.com/salute-developers/pashka/pull/121) ([@LamaEats](https://github.com/LamaEats))
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): title for Gallery component can be optional [#121](https://github.com/salute-developers/pashka/pull/121) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.50.1 (Wed Sep 08 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): tv detection [#119](https://github.com/salute-developers/pashka/pull/119) ([@Yeti-or](https://github.com/Yeti-or))
+
+#### Authors: 1
+
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v0.50.0 (Thu Sep 02 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Typed props for platform components [#111](https://github.com/salute-developers/pashka/pull/111) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v0.49.0 (Thu Aug 26 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Cart can be without delivery [#117](https://github.com/salute-developers/pashka/pull/117) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.48.0 (Wed Aug 25 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Insets with device pixel ratio [#114](https://github.com/salute-developers/pashka/pull/114) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): add focus for player button [#118](https://github.com/salute-developers/pashka/pull/118) ([@kayman233](https://github.com/kayman233))
+- fix(plasma-temple): callOnce for useFocusOnMount added [#118](https://github.com/salute-developers/pashka/pull/118) ([@kayman233](https://github.com/kayman233))
+
+#### Authors: 2
+
+- [@kayman233](https://github.com/kayman233)
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.47.2 (Tue Aug 24 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): can hide timeline tick [#116](https://github.com/salute-developers/pashka/pull/116) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.47.1 (Tue Aug 24 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): remove tabindex attr for portal ua [#115](https://github.com/salute-developers/pashka/pull/115) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.47.0 (Mon Aug 23 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Empty cart mobile version [#110](https://github.com/salute-developers/pashka/pull/110) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): simplify types [#110](https://github.com/salute-developers/pashka/pull/110) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Mobile cart and controlled cart [#110](https://github.com/salute-developers/pashka/pull/110) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.46.0 (Mon Aug 16 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Make page layout scrollable [#109](https://github.com/salute-developers/pashka/pull/109) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.45.0 (Fri Aug 13 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Adapt product components for mobile [#108](https://github.com/salute-developers/pashka/pull/108) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.44.1 (Wed Aug 11 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): fix mobile font size [#107](https://github.com/salute-developers/pashka/pull/107) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.44.0 (Wed Aug 11 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Add header minimize behavior [#101](https://github.com/salute-developers/pashka/pull/101) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.43.0 (Wed Aug 11 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): error page layout [#103](https://github.com/salute-developers/pashka/pull/103) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.42.1 (Wed Aug 11 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Fix button view for portal in HeroSlide [#102](https://github.com/salute-developers/pashka/pull/102) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- docs(plasma-temple): Add Page.lazy description [#100](https://github.com/salute-developers/pashka/pull/100) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- Update packages/plasma-temple/docs/core.md [#100](https://github.com/salute-developers/pashka/pull/100) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- docs(plasma-temple): Docs core [#100](https://github.com/salute-developers/pashka/pull/100) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- docs(plasma-temple): add forms.md docs [#96](https://github.com/salute-developers/pashka/pull/96) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 3
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.42.0 (Mon Aug 02 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Add active index to item change callback in HeroSlider [#98](https://github.com/salute-developers/pashka/pull/98) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Add on item cchange callback to HeroSlider [#98](https://github.com/salute-developers/pashka/pull/98) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v0.41.0 (Thu Jul 29 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Add useForm hook [#95](https://github.com/salute-developers/pashka/pull/95) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Add generic to GalleryPage [#95](https://github.com/salute-developers/pashka/pull/95) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Add todo [#95](https://github.com/salute-developers/pashka/pull/95) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Handle gallery card click inside package [#95](https://github.com/salute-developers/pashka/pull/95) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Simplify custom gallery card interface [#95](https://github.com/salute-developers/pashka/pull/95) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Refactor gallery [#95](https://github.com/salute-developers/pashka/pull/95) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.40.1 (Fri Jul 23 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): assistantClient can be get outside React [#97](https://github.com/salute-developers/pashka/pull/97) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.40.0 (Fri Jul 23 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Rename onScrollBottom callback in GridPage [#94](https://github.com/salute-developers/pashka/pull/94) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): On scrolled to bottom callback for GridPage [#94](https://github.com/salute-developers/pashka/pull/94) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v0.39.1 (Mon Jul 19 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): HeroSlider skip last slide [#93](https://github.com/salute-developers/pashka/pull/93) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.39.0 (Mon Jul 19 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Posibility to have custom background on layout state page [#92](https://github.com/salute-developers/pashka/pull/92) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.38.0 (Thu Jul 15 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Improve gallery types, fix redundant rerender because of changeState [#91](https://github.com/salute-developers/pashka/pull/91) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Add go to screen page method [#91](https://github.com/salute-developers/pashka/pull/91) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.37.1 (Wed Jul 14 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): circular deps in components [#90](https://github.com/salute-developers/pashka/pull/90) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.37.0 (Fri Jul 02 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Add cart quantity limit [#88](https://github.com/salute-developers/pashka/pull/88) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.36.3 (Fri Jul 02 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): media player components fixes [#89](https://github.com/salute-developers/pashka/pull/89) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.36.2 (Fri Jul 02 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): fix GridPage api [#86](https://github.com/salute-developers/pashka/pull/86) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.36.1 (Thu Jul 01 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): fix playback on key hold [#87](https://github.com/salute-developers/pashka/pull/87) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v0.36.0 (Thu Jul 01 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Component for custom full screen background [#85](https://github.com/salute-developers/pashka/pull/85) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v0.35.0 (Tue Jun 29 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Custom entity component in ItemPage [#83](https://github.com/salute-developers/pashka/pull/83) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v0.34.2 (Mon Jun 28 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): fix init parameters for assistant [#84](https://github.com/salute-developers/pashka/pull/84) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.34.1 (Wed Jun 23 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): smooth scroll on GridPage [#82](https://github.com/salute-developers/pashka/pull/82) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.34.0 (Wed Jun 23 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Store shop landing page active card index [#81](https://github.com/salute-developers/pashka/pull/81) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.33.0 (Tue Jun 22 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Posibility to skip assistant native panel insets [#77](https://github.com/salute-developers/pashka/pull/77) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.32.0 (Mon Jun 21 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Refactor ItemDescription type [#80](https://github.com/salute-developers/pashka/pull/80) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Refactor ItemCellProps [#80](https://github.com/salute-developers/pashka/pull/80) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Fix ItemMainSection linter error [#80](https://github.com/salute-developers/pashka/pull/80) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Separate interface for description on ItemPages [#80](https://github.com/salute-developers/pashka/pull/80) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): ReactElement in ItemPage description [#80](https://github.com/salute-developers/pashka/pull/80) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v0.31.1 (Mon Jun 21 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): dont call `getInitialProps` if `state` is defined [#79](https://github.com/salute-developers/pashka/pull/79) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.31.0 (Mon Jun 21 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Refactor ItemPage [#78](https://github.com/salute-developers/pashka/pull/78) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Fix useMemo in ItemPage [#78](https://github.com/salute-developers/pashka/pull/78) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+- feat(plasma-temple): Add onItemFoucs callback for items on ItemPage [#78](https://github.com/salute-developers/pashka/pull/78) ([@VladislavPetyukevich](https://github.com/VladislavPetyukevich))
+
+#### Authors: 1
+
+- [@VladislavPetyukevich](https://github.com/VladislavPetyukevich)
+
+---
+
+# v0.30.0 (Fri Jun 18 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): remove gallery animation for portal [#72](https://github.com/salute-developers/pashka/pull/72) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): temp [#72](https://github.com/salute-developers/pashka/pull/72) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Get rid of first gallery scroll [#72](https://github.com/salute-developers/pashka/pull/72) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.29.1 (Thu Jun 17 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): fix effects MediaTimeLine component [#76](https://github.com/salute-developers/pashka/pull/76) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.29.0 (Thu Jun 17 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): StateLayout component [#73](https://github.com/salute-developers/pashka/pull/73) ([@LamaEats](https://github.com/LamaEats))
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): return component from `lazy fn` if `getInitialProps` is not defined [#74](https://github.com/salute-developers/pashka/pull/74) ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): lil fixes + story for new component [#73](https://github.com/salute-developers/pashka/pull/73) ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): apply new component for existing page layout [#73](https://github.com/salute-developers/pashka/pull/73) ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): utility type for Header component props [#73](https://github.com/salute-developers/pashka/pull/73) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.28.2 (Thu Jun 17 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): add margin for GridPage Content [#68](https://github.com/salute-developers/pashka/pull/68) ([@Yeti-or](https://github.com/Yeti-or))
+
+#### Authors: 1
+
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v0.28.1 (Wed Jun 16 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Fix cart page behavior [#70](https://github.com/salute-developers/pashka/pull/70) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.28.0 (Wed Jun 16 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): implements Page lazy api [#71](https://github.com/salute-developers/pashka/pull/71) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.27.2 (Tue Jun 15 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Fix focus and scroll gallery and landing page behaviour [#69](https://github.com/salute-developers/pashka/pull/69) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- Bump independent versions \[skip ci\] ([@LamaEats](https://github.com/LamaEats))
+- refactor(plasma-temple): Media/Video players improve [#65](https://github.com/salute-developers/pashka/pull/65) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.27.0 (Wed Jun 09 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Add posibility to set tab index for carousel card [#67](https://github.com/salute-developers/pashka/pull/67) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.26.0 (Mon Jun 07 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Ability to disable payment [#66](https://github.com/salute-developers/pashka/pull/66) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.25.0 (Mon Jun 07 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): add grid page [#64](https://github.com/salute-developers/pashka/pull/64) ([@Yeti-or](https://github.com/Yeti-or))
+
+#### Authors: 1
+
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v0.24.0 (Fri Jun 04 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Add posibility to change recipient data add form validation for voice field [#63](https://github.com/salute-developers/pashka/pull/63) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.23.1 (Wed Jun 02 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): adopt HeroSlider for portal [#62](https://github.com/salute-developers/pashka/pull/62) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): useRemoteHandlers conditions [#62](https://github.com/salute-developers/pashka/pull/62) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.23.0 (Tue Jun 01 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): HeroSlider touch events [#60](https://github.com/salute-developers/pashka/pull/60) ([@LamaEats](https://github.com/LamaEats))
+- feat(plasma-temple): HeroSlider components [#60](https://github.com/salute-developers/pashka/pull/60) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.22.0 (Tue Jun 01 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Cart bubble [#59](https://github.com/salute-developers/pashka/pull/59) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.21.0 (Tue Jun 01 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): temp [#58](https://github.com/salute-developers/pashka/pull/58) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Remove redundant padding [#58](https://github.com/salute-developers/pashka/pull/58) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- fix(plasma-temple): Fix gallery focus [#58](https://github.com/salute-developers/pashka/pull/58) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- refactor(plasma-temple): Rename ConfirmOrder and OrderSuccess [#58](https://github.com/salute-developers/pashka/pull/58) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.20.0 (Thu May 27 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Improve GalleryPage components [#56](https://github.com/salute-developers/pashka/pull/56) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.19.1 (Thu May 27 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Fix twice button click and input form submit [#57](https://github.com/salute-developers/pashka/pull/57) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- chore(plasma-temple): assistant-client up version [#55](https://github.com/salute-developers/pashka/pull/55) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.19.0 (Wed May 26 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Cart page [#54](https://github.com/salute-developers/pashka/pull/54) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.18.1 (Tue May 18 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Fix action button clicks with spatial navigation [#53](https://github.com/salute-developers/pashka/pull/53) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.18.0 (Tue May 18 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): ShopLandingPage components [#51](https://github.com/salute-developers/pashka/pull/51) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.17.0 (Fri May 14 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Confirm Order page [#49](https://github.com/salute-developers/pashka/pull/49) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.16.0 (Fri May 14 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Order Success page [#48](https://github.com/salute-developers/pashka/pull/48) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): description conent can be node. Add export product components [#46](https://github.com/salute-developers/pashka/pull/46) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- build(plasma-temple): Build via rollup [#50](https://github.com/salute-developers/pashka/pull/50) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- Bump independent versions \[skip ci\] ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): improve gallery page api [#47](https://github.com/salute-developers/pashka/pull/47) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.15.1 (Tue May 04 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): Fix changeState [#45](https://github.com/salute-developers/pashka/pull/45) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.15.0 (Thu Apr 29 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Support dispatching standart app actions via assistant [#44](https://github.com/salute-developers/pashka/pull/44) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.14.0 (Fri Apr 23 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): Add reusable components for product pages [#41](https://github.com/salute-developers/pashka/pull/41) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Enhance state of Video and Gallery pages, refactor useInitializeAssistant hook [#43](https://github.com/salute-developers/pashka/pull/43) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): Form components [#26](https://github.com/salute-developers/pashka/pull/26) ([@LamaEats](https://github.com/LamaEats))
+
+#### 🐛 Bug Fix
+
+- Bump independent versions \[skip ci\] ([@LamaEats](https://github.com/LamaEats))
+- chore(plasma-temple): apply code style rules [#26](https://github.com/salute-developers/pashka/pull/26) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.12.0 (Tue Apr 20 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): move AnyObject to common types [#38](https://github.com/salute-developers/pashka/pull/38) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): fix eslint rules [#38](https://github.com/salute-developers/pashka/pull/38) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-temple): refactor types [#38](https://github.com/salute-developers/pashka/pull/38) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-template): Refactor API [#38](https://github.com/salute-developers/pashka/pull/38) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### 🐛 Bug Fix
+
+- Bump independent versions \[skip ci\] ([@LamaEats](https://github.com/LamaEats))
+- chore: update deps [#37](https://github.com/salute-developers/pashka/pull/37) ([@OgNellis](https://github.com/OgNellis))
+
+#### Authors: 3
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Artem Feoktistov ([@OgNellis](https://github.com/OgNellis))
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.11.1 (Wed Apr 07 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): мелкие исправления и доработки апи [#24](https://github.com/salute-developers/pashka/pull/24) ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.11.0 (Fri Apr 02 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-template): Improve video player customization. Fix small … [#34](https://github.com/salute-developers/pashka/pull/34) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-template): Improve video player customization. Fix small bugs ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.10.1 (Wed Mar 31 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-template): Get rid of header animation if logo is absent. … [#33](https://github.com/salute-developers/pashka/pull/33) ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- fix(plasma-template): Get rid of header animation if logo is absent. Add header back button ([@kvpolyanskiy](https://github.com/kvpolyanskiy))
+
+#### Authors: 1
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+
+---
+
+# v0.10.0 (Fri Mar 26 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-templlate): Video page [#28](https://github.com/salute-developers/pashka/pull/28) (kv.polyanskiy@gmail.com [@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-templlate): Video page (kv.polyanskiy@gmail.com)
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Konstantin Polyanskiy (kv.polyanskiy@gmail.com)
+
+---
+
+# v0.9.0 (Thu Mar 25 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-template): Video player [#25](https://github.com/salute-developers/pashka/pull/25) (kv.polyanskiy@gmail.com [@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-template): Video player (kv.polyanskiy@gmail.com)
+
+#### 🐛 Bug Fix
+
+- docs(plasma-temple): add storybook configs [#30](https://github.com/salute-developers/pashka/pull/30) ([@Yeti-or](https://github.com/Yeti-or))
+
+#### Authors: 3
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Konstantin Polyanskiy (kv.polyanskiy@gmail.com)
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v0.8.0 (Thu Mar 25 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-template): entity background is optional [#29](https://github.com/salute-developers/pashka/pull/29) (kv.polyanskiy@gmail.com [@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-template): entity background is optional (kv.polyanskiy@gmail.com)
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Konstantin Polyanskiy (kv.polyanskiy@gmail.com)
+
+---
+
+# v0.7.0 (Wed Mar 17 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-template): render custom gallery card [#23](https://github.com/salute-developers/pashka/pull/23) (kv.polyanskiy@gmail.com [@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-template): render custom gallery card (kv.polyanskiy@gmail.com)
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Konstantin Polyanskiy (kv.polyanskiy@gmail.com)
+
+---
+
+# v0.6.0 (Tue Mar 16 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): add unit tests [#21](https://github.com/salute-developers/pashka/pull/21) ([@LamaEats](https://github.com/LamaEats))
+- feat(plasma-temple): add unit tests ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.5.1 (Tue Mar 16 2021)
+
+#### 🐛 Bug Fix
+
+- Apply the voice navigation [#22](https://github.com/salute-developers/pashka/pull/22) (kv.polyanskiy@gmail.com [@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- Apply the voice navigation (kv.polyanskiy@gmail.com)
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Konstantin Polyanskiy (kv.polyanskiy@gmail.com)
+
+---
+
+# v0.5.0 (Thu Mar 11 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-template): Invoke onPopState callback when on popstate event is fired [#18](https://github.com/salute-developers/pashka/pull/18) (kv.polyanskiy@gmail.com [@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-template): Invoke onHistoryPopState callback when on popstate history event (kv.polyanskiy@gmail.com)
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Konstantin Polyanskiy (kv.polyanskiy@gmail.com)
+
+---
+
+# v0.4.0 (Wed Mar 10 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-template): set header title for an active gallery [#14](https://github.com/salute-developers/pashka/pull/14) (kv.polyanskiy@gmail.com [@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-template): make id required only for multi gallery (kv.polyanskiy@gmail.com)
+- feat(plasma-template): set header title for an active gallery (kv.polyanskiy@gmail.com)
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Konstantin Polyanskiy (kv.polyanskiy@gmail.com)
+
+---
+
+# v0.3.1 (Wed Mar 10 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-temple): CardMedia children [#16](https://github.com/salute-developers/pashka/pull/16) ([@Yeti-or](https://github.com/Yeti-or))
+- fix(plasma-temple): CardMedia children ([@Yeti-or](https://github.com/Yeti-or))
+
+#### Authors: 1
+
+- Vasiliy ([@Yeti-or](https://github.com/Yeti-or))
+
+---
+
+# v0.3.0 (Thu Mar 04 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-template): support multi gallery [#13](https://github.com/salute-developers/pashka/pull/13) (kv.polyanskiy@gmail.com [@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-template): support multi gallery (kv.polyanskiy@gmail.com)
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Konstantin Polyanskiy (kv.polyanskiy@gmail.com)
+
+---
+
+# v0.2.2 (Fri Feb 26 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-template): set default focus on gallery card [#9](https://github.com/salute-developers/pashka/pull/9) (kv.polyanskiy@gmail.com [@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- fix(plasma-template): set default focus on gallery card (kv.polyanskiy@gmail.com)
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Konstantin Polyanskiy (kv.polyanskiy@gmail.com)
+
+---
+
+# v0.2.1 (Fri Feb 26 2021)
+
+#### 🐛 Bug Fix
+
+- fix(plasma-template): use all header props [#10](https://github.com/salute-developers/pashka/pull/10) (kv.polyanskiy@gmail.com [@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- fix(plasma-template): use all header props (kv.polyanskiy@gmail.com)
+- fix(plasma-temple): add package docs [#6](https://github.com/salute-developers/pashka/pull/6) ([@LamaEats](https://github.com/LamaEats))
+- fix(plasma-temple): add package docs ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 3
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Konstantin Polyanskiy (kv.polyanskiy@gmail.com)
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
+
+---
+
+# v0.2.0 (Thu Feb 25 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-template): add e2e test attributes [#8](https://github.com/salute-developers/pashka/pull/8) (kv.polyanskiy@gmail.com [@kvpolyanskiy](https://github.com/kvpolyanskiy))
+- feat(plasma-template): add e2e attributes for gallery (kv.polyanskiy@gmail.com)
+- feat(plasma-template): add e2e test attributes (kv.polyanskiy@gmail.com)
+
+#### Authors: 2
+
+- [@kvpolyanskiy](https://github.com/kvpolyanskiy)
+- Konstantin Polyanskiy (kv.polyanskiy@gmail.com)
+
+---
+
+# v0.1.0 (Fri Feb 19 2021)
+
+#### 🚀 Enhancement
+
+- feat(plasma-temple): add new package [#5](https://github.com/salute-developers/pashka/pull/5) ([@LamaEats](https://github.com/LamaEats))
+- feat(plasma-temple): add new package ([@LamaEats](https://github.com/LamaEats))
+
+#### Authors: 1
+
+- Sviridov Maksim ([@LamaEats](https://github.com/LamaEats))
