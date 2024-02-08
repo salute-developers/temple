@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        [
+            "npm",
+            {
+                "setRcToken": false
+            }
+        ],
+        "conventional-commits"
+    ]
+}
