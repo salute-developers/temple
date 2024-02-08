@@ -6,20 +6,6 @@ on:
       with-update-package-lock:
         type: boolean
         default: false
-      cmd:
-        type: string
-        default: "bootstrap"
-        description: "Execute npm run cmd. For example cmd='bootstrap' => npm run bootstrap"
-      commit-message:
-        type: string
-        default: 'chore: Update package-lock.json files [skip ci]'
-      ref:
-        type: string
-        description: "Manual set repo ref"
-        default: ''
-      upload_assets:
-        type: boolean
-        default: false
     secrets:
       gh_token:
         required: true
@@ -36,36 +22,29 @@ jobs:
         uses: actions/checkout@v4
         with:
           show-progress: false
-          ref: ${{ inputs.ref }}
-      
+
       - name: Prepare repository
         run: git fetch --unshallow --tags
-      
+
       - name: Unset header
         # https://github.com/intuit/auto/issues/1030
         run: git config --local --unset http.https://github.com/.extraheader
-      
+
       - name: Prepare environment
         uses: ./.github/actions/prepare-environment
-      
+
       - name: Lerna bootstrap
-        run: npm run ${{ inputs.cmd }}
-      
-      - name: API Report
-        run: npm run api:report
-        
-      - name: Build "@auto-it" plugins
-        run: npm run auto-plugins:build
-      
+        run: npm run bootstrap
+
       - name: Release Info
         run: npm whoami && npx lerna info && npx auto info || echo 'auto info returned 1'
-      
+
       - name: Create Release
-        run: upload_assets="${{ inputs.upload_assets }}" npm run release
-      
+        run: npm run release
+
       - name: Update package-lock files
         if: ${{ inputs.with-update-package-lock }}
         uses: ./.github/actions/update-package-lock
         with:
-          commit-message: ${{ inputs.commit-message }}
+          commit-message: "chore: Update package-lock.json files [skip ci]"
           token: ${{ secrets.gh_token }}
