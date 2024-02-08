@@ -1,33 +1,21 @@
-name: Main Documentation and Storybook
+name: Deploy documentation artifacts [main branch]
 
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Release"]
-    branches: [master]
+    workflows: ["Release Latest"]
+    branches: [main]
     types:
       - completed
 
 jobs:
-  build:
-    name: Build
+  deploy:
+    name: Deploy documentation artifacts
     runs-on: ubuntu-latest
-    env:
-      NPM_REGISTRY_TOKEN: ${{ secrets.NPM_REGISTRY_TOKEN }}
     steps:
-      # [NOTE]: В проекте default branch - dev, что бы правильно собрать
-      # актуальную версию для branch master, нужно указать ref = 'master'
       - uses: actions/checkout@v4
-      # [DOC]: About REF. The branch, tag or SHA to checkout. When checking out the repository that
-      # triggered a workflow, this defaults to the reference or SHA for that event.
-      # Otherwise, **uses the default branch**.
-      # [DOC]: Last commit on default branch
         with:
-          ref: 'master'
           show-progress: false
-
-      - name: Prepare repository
-        run: git fetch --unshallow --tags
 
       - name: Prepare environment
         uses: ./.github/actions/prepare-environment
@@ -37,7 +25,7 @@ jobs:
 
       - name: Prepare directories
         run: |
-          mkdir -p s3_build s3_build_sb
+          mkdir -p s3_build
 
       - name: Plasma Temple Docs
         run: |
@@ -66,4 +54,4 @@ jobs:
           --no-mime-magic
           sync
           ./s3_build/next-${{ github.sha }}/
-          s3://${{ secrets.AWS_S3_BUCKET_2 }}/current/
+          s3://${{ secrets.AWS_S3_BUCKET_2 }}/current/temple/

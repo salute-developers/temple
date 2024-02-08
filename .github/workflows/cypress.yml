@@ -1,11 +1,9 @@
 name: Cypress component testing
 
 on:
-  merge_group:
   pull_request:
     branches:
-      - master
-      - dev
+      - main
 
 concurrency:
   # New commit on branch cancels running workflows of the same branch
@@ -13,26 +11,13 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  change-detection-temple:
-    uses: ./.github/workflows/change-detection.yml
-    with:
-      exclude-dependents: true
-    secrets: inherit
-
   cypress-temple:
-    needs: change-detection-temple
-    if: ${{ needs.change-detection-temple.outputs.HAS_PLASMA_TEMPLE == 'true' }}
     uses: ./.github/workflows/cypress-common.yml
-    with:
-      scope: 'temple'
     secrets: inherit
 
   cypress-temple-react-17:
-    needs: change-detection-temple
-    if: ${{ needs.change-detection-temple.outputs.HAS_PLASMA_TEMPLE == 'true' }}
     uses: ./.github/workflows/cypress-common.yml
     with:
-      scope: 'temple'
       with-react-17: true
     secrets: inherit
 

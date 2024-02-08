@@ -4,26 +4,16 @@ on:
   pull_request:
     types: [closed]
     branches:
-      - master
-  pull_request_target:
-    types: [closed]
-    branches:
-      - dev
-
-concurrency:
-  # New commit on branch cancels running workflows of the same branch
-  group: ${{ github.workflow }}-${{ github.head_ref }}
-  cancel-in-progress: true
+      - main
 
 jobs:
   clean:
-    name: Clean up
+    name: Clean up S3
     runs-on: ubuntu-latest
     env:
-      NPM_REGISTRY_TOKEN: ${{ secrets.NPM_REGISTRY_TOKEN }}
       PR_NAME: pr-${{ github.event.number }}
     steps:
-      - name: s3 Clean artifacts made for closed pr - pr
+      - name: s3 Clean artifacts made for closed pr
         uses: vitorsgomes/s3-rm-action@master
         with:
           args: --recursive
