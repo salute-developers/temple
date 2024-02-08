@@ -4,7 +4,6 @@
   "author": "Salute Frontend Team <salute.developers@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "auto-plugins:build": "tsc -p auto-plugins/tsconfig.json",
     "release": "git diff && auto shipit -v",
     "cy:clean": "rm -rf cypress/{results,reports,screenshots,videos}",
     "cy:accept-diffs": "docker run -it --rm -v $PWD:/e2e -w /e2e -e CYPRESS_updateSnapshots=true -e CYPRESS_BASE_URL=${PUBLIC_URL:-'http://host.docker.internal:6006'} cypress/included:8.0.0 run --browser chrome",
@@ -20,13 +19,12 @@
     "extract-docgen-info": "lerna run extract-docgen-info",
     "lint:scripts": "eslint ./scripts ./auto-plugins/src --ext .js,.ts --quiet",
     "lint:packages": "./scripts/lint-packages.js",
-    "lint:lerna": "npx lerna run lint --parallel --since=$(git merge-base --fork-point origin/dev) --ignore=@salutejs/plasma-{temple}",
+    "lint:lerna": "npx lerna run lint --parallel",
     "lint": "npm run lint:scripts && npm run lint:lerna && npm run lint:packages",
-    "test": "lerna run test --since=$(git merge-base --fork-point origin/dev)",
-    "typescript-coverage": "lerna run typescript-coverage --since=$(git merge-base --fork-point origin/dev) --no-bail --stream",
+    "test": "lerna run test",
+    "typescript-coverage": "lerna run typescript-coverage --no-bail --stream",
     "prepare": "test ! -n \"$CI\" && husky install || echo skip husky",
     "bootstrap": "npx lerna bootstrap",
-    "bootstrap:since": "npm run bootstrap -- --since=$(git merge-base --fork-point origin/dev)",
     "postinstall": "patch-package"
   },
   "devDependencies": {
