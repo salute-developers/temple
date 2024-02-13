@@ -58,7 +58,7 @@ jobs:
           --no-mime-magic
           sync
           ./s3_build/${PR_NAME}/
-          s3://${{ secrets.AWS_S3_BUCKET_2 }}/pr/${PR_NAME}/
+          s3://${{ secrets.AWS_S3_BUCKET }}/pr/${PR_NAME}/
 
       - name: Post success comment
         uses: actions/github-script@v7

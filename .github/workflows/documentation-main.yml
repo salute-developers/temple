@@ -54,4 +54,4 @@ jobs:
           --no-mime-magic
           sync
           ./s3_build/next-${{ github.sha }}/
-          s3://${{ secrets.AWS_S3_BUCKET_2 }}/current/temple/
+          s3://${{ secrets.AWS_S3_BUCKET }}/current/temple/
