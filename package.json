@@ -17,7 +17,7 @@
     "cy:temple:open-ct": "PACKAGE_DIR=packages/plasma-temple node actions/platform-test/lib/index.js --config cypress/config/temple --command open-ct --platform ${TEST_PLATFORM:=sberbox} --env failOnSnapshotDiff=false",
     "cy:report:coverage": "nyc report --reporter=cobertura --reporter=html",
     "extract-docgen-info": "lerna run extract-docgen-info",
-    "lint:scripts": "eslint ./scripts ./auto-plugins/src --ext .js,.ts --quiet",
+    "lint:scripts": "eslint ./scripts --ext .js --quiet",
     "lint:packages": "./scripts/lint-packages.js",
     "lint:lerna": "npx lerna run lint --parallel",
     "lint": "npm run lint:scripts && npm run lint:lerna && npm run lint:packages",
