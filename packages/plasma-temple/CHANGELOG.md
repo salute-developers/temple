@@ -1,3 +1,21 @@
+# v1.191.1 (Tue Feb 13 2024)
+
+#### 🐛 Bug Fix
+
+- fix: change desc prop [#5](https://github.com/salute-developers/temple/pull/5) ([@Yakutoc](https://github.com/Yakutoc))
+
+#### ⚠️ Pushed to `main`
+
+- chore: fix "@salutejs/plasma-cy-utils" version [no ci] ([@Yakutoc](https://github.com/Yakutoc))
+- Initial commit ([@neretin-trike](https://github.com/neretin-trike))
+
+#### Authors: 2
+
+- Alex Czech ([@Yakutoc](https://github.com/Yakutoc))
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+
+---
+
 # v1.191.0 (Thu Nov 30 2023)
 
 #### 🚀 Enhancement

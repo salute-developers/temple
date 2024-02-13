@@ -1,3 +1,15 @@
+# v2.4.1 (Tue Feb 13 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Initial commit ([@neretin-trike](https://github.com/neretin-trike))
+
+#### Authors: 1
+
+- neretinaa ([@neretin-trike](https://github.com/neretin-trike))
+
+---
+
 # v2.4.0 (Thu Jun 29 2023)
 
 #### 🐛 Bug Fix
