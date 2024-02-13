@@ -2,7 +2,6 @@ import React, { PropsWithChildren } from 'react';
 import { createPortal } from 'react-dom';
 import styled, { createGlobalStyle } from 'styled-components';
 import { mount as cyMount } from '@cypress/react';
-
 // plasma-ui
 import { darkSber } from '@salutejs/plasma-tokens/themes';
 
