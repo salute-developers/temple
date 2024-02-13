@@ -31,12 +31,12 @@ jobs:
         run: |
           export NODE_OPTIONS=--openssl-legacy-provider
           npm run build --prefix="./website/plasma-temple-docs"
-          cp -R ./website/plasma-temple-docs/build ./s3_build/next-${{ github.sha }}/temple
+          cp -R ./website/plasma-temple-docs/build ./s3_build/temple
 
       - name: Plasma Temple Storybook
         run: |
           npm run storybook:build --prefix="./packages/plasma-temple"
-          cp -R ./packages/plasma-temple/build-sb ./s3_build/next-${{ github.sha }}/temple-storybook
+          cp -R ./packages/plasma-temple/build-sb ./s3_build/temple-storybook
 
       - name: Install s3cmd
         run: pip3 install s3cmd
@@ -53,5 +53,5 @@ jobs:
           --delete-removed
           --no-mime-magic
           sync
-          ./s3_build/next-${{ github.sha }}/
+          ./s3_build/
           s3://${{ secrets.AWS_S3_BUCKET }}/current/temple/
