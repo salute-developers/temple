@@ -2,29 +2,11 @@ import React, { PropsWithChildren } from 'react';
 import { createPortal } from 'react-dom';
 import styled, { createGlobalStyle } from 'styled-components';
 import { mount as cyMount } from '@cypress/react';
-// plasma-web
-import { web } from '@salutejs/plasma-tokens-web/typo';
-import { light as webLight } from '@salutejs/plasma-tokens-web/themes';
+
 // plasma-ui
 import { darkSber } from '@salutejs/plasma-tokens/themes';
-// B2B
-import { light as b2bLight } from '@salutejs/plasma-tokens-b2b/themes';
-// plasma-b2c
-import { dark } from '@salutejs/plasma-tokens-b2c/themes';
-import { standard as standardTypo, compatible as compatibleTypo } from '@salutejs/plasma-typo';
-
-// TODO: better naming
-const TypoThemeStyle = createGlobalStyle(web);
-const WebLightThemeStyle = createGlobalStyle(webLight);
-
-// B2B
-const B2BLightThemeStyle = createGlobalStyle(b2bLight);
 
 const ThemeStyle = createGlobalStyle(darkSber);
-
-const StandardTypoStyle = createGlobalStyle(standardTypo);
-const CompatibleTypoStyle = createGlobalStyle(compatibleTypo);
-const ColorB2CStyle = createGlobalStyle(dark);
 
 export const getComponent = function <T = PropsWithChildren<{}>>(componentName: string): React.FC<T> {
     // eslint-disable-next-line @typescript-eslint/no-use-before-define
@@ -42,27 +24,7 @@ export const getComponent = function <T = PropsWithChildren<{}>>(componentName: 
 
     if (pkgName === 'plasma-ui') {
         // eslint-disable-next-line global-require, @typescript-eslint/no-var-requires
-        const pkg = require('../../../packages/plasma-ui') as Record<string, React.FC<T> | undefined>;
-        const component = pkg[componentName];
-
-        check(component);
-
-        return component;
-    }
-
-    if (pkgName === 'plasma-web') {
-        // eslint-disable-next-line global-require, @typescript-eslint/no-var-requires
-        const pkg = require('../../../packages/plasma-web') as Record<string, React.FC<T> | undefined>;
-        const component = pkg[componentName];
-
-        check(component);
-
-        return component;
-    }
-
-    if (pkgName === 'plasma-b2c') {
-        // eslint-disable-next-line global-require, @typescript-eslint/no-var-requires
-        const pkg = require('../../../packages/plasma-b2c') as Record<string, React.FC<T> | undefined>;
+        const pkg = require('@salutejs/plasma-ui') as Record<string, React.FC<T> | undefined>;
         const component = pkg[componentName];
 
         check(component);
@@ -80,8 +42,7 @@ interface CYTDec {
 export const CypressTestDecorator: React.FC<PropsWithChildren<CYTDec>> = ({ noSSR, children }) => {
     // eslint-disable-next-line @typescript-eslint/no-use-before-define
     const pkgName = Cypress.env('package') as string;
-    // eslint-disable-next-line @typescript-eslint/no-use-before-define
-    const tokens = Cypress.env('tokens') as string;
+
     const SSRProvider = getComponent('SSRProvider');
 
     const SSR: React.FC<PropsWithChildren<CYTDec>> = ({ noSSR: _noSSR, children }) => {
@@ -101,39 +62,6 @@ export const CypressTestDecorator: React.FC<PropsWithChildren<CYTDec>> = ({ noSS
                     {children}
                 </SSR>
             </DeviceThemeProvider>
-        );
-    }
-
-    // B2B
-    if (pkgName === 'plasma-web' && tokens === 'plasma-tokens-b2b') {
-        return (
-            <SSR noSSR={noSSR}>
-                <StandardTypoStyle />
-                <CompatibleTypoStyle />
-                <B2BLightThemeStyle />
-                {children}
-            </SSR>
-        );
-    }
-
-    if (pkgName === 'plasma-web') {
-        return (
-            <SSR noSSR={noSSR}>
-                <TypoThemeStyle />
-                <WebLightThemeStyle />
-                {children}
-            </SSR>
-        );
-    }
-
-    if (pkgName === 'plasma-b2c') {
-        return (
-            <SSR noSSR={noSSR}>
-                <StandardTypoStyle />
-                <CompatibleTypoStyle />
-                <ColorB2CStyle />
-                {children}
-            </SSR>
         );
     }
 

@@ -31,25 +31,9 @@ var react_1 = __importDefault(require("react"));
 var react_dom_1 = require("react-dom");
 var styled_components_1 = __importStar(require("styled-components"));
 var react_2 = require("@cypress/react");
-// plasma-web
-var typo_1 = require("@salutejs/plasma-tokens-web/typo");
-var themes_1 = require("@salutejs/plasma-tokens-web/themes");
 // plasma-ui
-var themes_2 = require("@salutejs/plasma-tokens/themes");
-// B2B
-var themes_3 = require("@salutejs/plasma-tokens-b2b/themes");
-// plasma-b2c
-var themes_4 = require("@salutejs/plasma-tokens-b2c/themes");
-var plasma_typo_1 = require("@salutejs/plasma-typo");
-// TODO: better naming
-var TypoThemeStyle = styled_components_1.createGlobalStyle(typo_1.web);
-var WebLightThemeStyle = styled_components_1.createGlobalStyle(themes_1.light);
-// B2B
-var B2BLightThemeStyle = styled_components_1.createGlobalStyle(themes_3.light);
-var ThemeStyle = styled_components_1.createGlobalStyle(themes_2.darkSber);
-var StandardTypoStyle = styled_components_1.createGlobalStyle(plasma_typo_1.standard);
-var CompatibleTypoStyle = styled_components_1.createGlobalStyle(plasma_typo_1.compatible);
-var ColorB2CStyle = styled_components_1.createGlobalStyle(themes_4.dark);
+var themes_1 = require("@salutejs/plasma-tokens/themes");
+var ThemeStyle = styled_components_1.createGlobalStyle(themes_1.darkSber);
 exports.getComponent = function (componentName) {
     // eslint-disable-next-line @typescript-eslint/no-use-before-define
     var pkgName = Cypress.env('package');
@@ -63,21 +47,7 @@ exports.getComponent = function (componentName) {
     }
     if (pkgName === 'plasma-ui') {
         // eslint-disable-next-line global-require, @typescript-eslint/no-var-requires
-        var pkg = require('../../../packages/plasma-ui');
-        var component = pkg[componentName];
-        check(component);
-        return component;
-    }
-    if (pkgName === 'plasma-web') {
-        // eslint-disable-next-line global-require, @typescript-eslint/no-var-requires
-        var pkg = require('../../../packages/plasma-web');
-        var component = pkg[componentName];
-        check(component);
-        return component;
-    }
-    if (pkgName === 'plasma-b2c') {
-        // eslint-disable-next-line global-require, @typescript-eslint/no-var-requires
-        var pkg = require('../../../packages/plasma-b2c');
+        var pkg = require('@salutejs/plasma-ui');
         var component = pkg[componentName];
         check(component);
         return component;
@@ -88,8 +58,6 @@ exports.CypressTestDecorator = function (_a) {
     var noSSR = _a.noSSR, children = _a.children;
     // eslint-disable-next-line @typescript-eslint/no-use-before-define
     var pkgName = Cypress.env('package');
-    // eslint-disable-next-line @typescript-eslint/no-use-before-define
-    var tokens = Cypress.env('tokens');
     var SSRProvider = exports.getComponent('SSRProvider');
     var SSR = function (_a) {
         var _noSSR = _a.noSSR, children = _a.children;
@@ -104,27 +72,6 @@ exports.CypressTestDecorator = function (_a) {
             react_1.default.createElement(SSR, { noSSR: noSSR },
                 react_1.default.createElement(ThemeStyle, null),
                 children)));
-    }
-    // B2B
-    if (pkgName === 'plasma-web' && tokens === 'plasma-tokens-b2b') {
-        return (react_1.default.createElement(SSR, { noSSR: noSSR },
-            react_1.default.createElement(StandardTypoStyle, null),
-            react_1.default.createElement(CompatibleTypoStyle, null),
-            react_1.default.createElement(B2BLightThemeStyle, null),
-            children));
-    }
-    if (pkgName === 'plasma-web') {
-        return (react_1.default.createElement(SSR, { noSSR: noSSR },
-            react_1.default.createElement(TypoThemeStyle, null),
-            react_1.default.createElement(WebLightThemeStyle, null),
-            children));
-    }
-    if (pkgName === 'plasma-b2c') {
-        return (react_1.default.createElement(SSR, { noSSR: noSSR },
-            react_1.default.createElement(StandardTypoStyle, null),
-            react_1.default.createElement(CompatibleTypoStyle, null),
-            react_1.default.createElement(ColorB2CStyle, null),
-            children));
     }
     return react_1.default.createElement(react_1.default.Fragment, null, children);
 };
