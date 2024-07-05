@@ -2,4 +2,4 @@
 
 Это устаревший пакет для создания CanvasApp на платформе Салют.
 
-[Документация](https://bit.ly/3MuphOm)
+[Примеры Storybook](https://plasma.sberdevices.ru/temple-archive/temple-storybook/?path=/docs/card--default)
