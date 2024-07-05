@@ -54,7 +54,7 @@ jobs:
           --no-mime-magic
           sync
           ./s3_build/temple/
-          s3://${{ secrets.AWS_S3_BUCKET }}/current/temple/
+          s3://${{ secrets.AWS_S3_BUCKET }}/temple-archive/temple/
 
       - name: Upload storybook build
         run: >
@@ -69,4 +69,4 @@ jobs:
           --no-mime-magic
           sync
           ./s3_build/temple-storybook/
-          s3://${{ secrets.AWS_S3_BUCKET }}/current/temple-storybook/
+          s3://${{ secrets.AWS_S3_BUCKET }}/temple-archive/temple-storybook/
