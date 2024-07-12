@@ -11,7 +11,7 @@ const fg = require('fast-glob');
 
 const { PR_NAME, VERSION_NAME } = process.env;
 const prefix = VERSION_NAME || !PR_NAME ? '' : `/pr/${PR_NAME}`;
-const baseUrl = VERSION_NAME ? `/versions/${VERSION_NAME}/` : `${prefix}/temple/`;
+const baseUrl = VERSION_NAME ? `/versions/${VERSION_NAME}/` : `${prefix}/temple-archive/temple/`;
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
